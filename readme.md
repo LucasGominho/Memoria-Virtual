@@ -75,7 +75,7 @@ void inTLB(int i){
 ```
 > Checa se o page number está na TLB
 
-## FUNÇÕES DA LISTA ENCADEADA
+## Funções da lista encadeada
 
 ```c
 void delete(int pos)
